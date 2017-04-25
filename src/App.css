@@ -1,0 +1,17 @@
+.red{
+  color:red;
+  font-family: 'Indie Flower', cursive;
+
+}
+.grey{
+  background-color:lightgrey;
+  padding:20px;
+  border-radius:8px;
+}
+.add{
+  border-radius:8px;
+}
+.list{
+  margin:5px;
+  border-radius: 10px;
+}
